@@ -1,0 +1,58 @@
+'Cmd/Ctrl+Enter' // Triggers `Todo: Toggle Box`
+'Alt+Enter' // Triggers `Todo: Toggle Box`
+'Alt+D' // Triggers `Todo: Toggle Done`
+'Alt+C' // Triggers `Todo: Toggle Cancelled`
+'Alt+S' // Triggers `Todo: Toggle Start`
+'Cmd/Ctrl+Shift+A' // Triggers  `Todo: Archive`
+
+
+
+Todo:open
+    ✔ home page @done(22-06-25 17:59)
+        ✔ names @done(22-06-25 17:59)
+        ✔ video @done(22-06-25 17:59)
+        ✔ logo @done(22-06-25 17:59)
+        ✔ navbar @done(22-06-25 17:59)
+        ✔ socials @done(22-06-25 17:59)
+        ✔ typewrite @done(22-06-25 17:59)
+
+
+    ☐ about card
+        ✔ picture @done(22-06-25 22:32)
+        download cv
+        ✔ icons for github and stackoverflow @done(22-06-25 18:00)
+        ✔ my services @done(22-06-25 18:08)
+          ✔ Web Development @done(22-06-25 18:07)
+          ✔ SEO @done(22-06-25 18:07)
+          ✔ System Development @done(22-06-25 18:07)
+          ✔ Analytics @done(22-06-25 18:07)
+          ✔ Tech Consulting @done(22-06-25 18:07)
+          ✔ Music Writing @done(22-06-25 18:07)
+        ✔ my pricing @done(22-06-25 18:07)
+        ✔ fun facts @done(22-06-25 18:07)
+
+
+    ✔ Resume @done(22-06-25 18:09)
+        ✔ My experience @done(22-06-25 18:08)
+        ✔ my education @done(22-06-25 18:08)
+        ✔ personal skills @done(22-06-25 18:08)
+        ✔ professional skills @done(22-06-25 18:08)
+
+
+    ✔ My portfolio @done(22-06-25 18:57)
+        ✔ ecommerce @done(22-06-25 18:19)
+            content
+        ☐ rms
+            content
+        ✔ meditation @done(22-06-25 18:57)
+            content
+        ✔ SportPesa @done(22-06-25 18:57)
+            content
+
+
+
+            ☐email
+            ☐cv downloadability
+
+
+
